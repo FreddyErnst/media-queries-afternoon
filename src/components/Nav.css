@@ -67,6 +67,9 @@ cursor: pointer;
 }
 
 @keyframes open {
+    from {
+        transform: translateY(-400px)
+    }
     to {
         transform: translateY(0px);
     }

@@ -43,7 +43,7 @@ class Nav extends Component {
 
                 </nav>
                 <div className={`${this.state.menuStatus} hidden-by-default drop-down`}>
-                    
+                    <h2>Start Bootstrap</h2>
                     <h2>SERVICES</h2>
                     <h2>PORTFOLIO</h2>
                     <h2>ABOUT</h2>
